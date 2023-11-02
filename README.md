@@ -1,5 +1,4 @@
 # Data-Visualisation-of-Asian-Smoking-and-Tobacco-Consumption
-# Asian Tobacco Data Analysis
 
 ![Tobacco and Smoking Analysis](https://img.shields.io/badge/Tobacco-Data%20Analysis-brightgreen)
 
