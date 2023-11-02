@@ -92,7 +92,3 @@ Contributions, bug reports, and feature requests are welcome.
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-Feel free to customize this README further with additional details about your project, data sources, and specific findings from the data analysis.
